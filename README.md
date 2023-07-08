@@ -3,28 +3,14 @@
 ## AWS Machine Learning Engineer Nanodegree
 
 ## Overview
-In this project, students will apply the knowledge and methods they learned in the Introduction to Machine Learning course to compete in a Kaggle competition using the AutoGluon library.
 
-Students will create a Kaggle account if they do not already have one, download the Bike Sharing Demand dataset, and train a model using AutoGluon. They will then submit their initial results for a ranking.
+We create a Kaggle account, download the Bike Sharing Demand dataset, and train a model using AutoGluon.
 
-After they complete the first workflow, they will iterate on the process by trying to improve their score. This will be accomplished by adding more features to the dataset and tuning some of the hyperparameters available with AutoGluon.
+After we complete the first workflow, we will iterate on the process by trying to improve our score. This will be accomplished by adding more features to the dataset and tuning some of the hyperparameters available with AutoGluon.
 
-Finally they will submit all their work and write a report detailing which methods provided the best score improvement and why. A template of the report can be found [here](report-template.md).
+Finally we submit all our work and write a report detailing which methods provided the best score improvement and why. A template of the report can be found [here](report-template.md).
 
-To meet specifications, the project will require at least these files:
-* Jupyter notebook with code run to completion
-* HTML export of the jupyter notebbook
-* Markdown or PDF file of the report
 
-Images or additional files needed to make your notebook or report complete can be also added.
-
-## Getting Started
-* Clone this template repository `git clone git@github.com:udacity/nd009t-c1-intro-to-ml-project-starter.git` into AWS Sagemaker Studio (or local development).
-
-<img src="img/sagemaker-studio-git1.png" alt="sagemaker-studio-git1.png" width="500"/>
-<img src="img/sagemaker-studio-git2.png" alt="sagemaker-studio-git2.png" width="500"/>
-
-* Proceed with the project within the [jupyter notebook](project-template.ipynb).
 * Visit the [Kaggle Bike Sharing Demand Competition](https://www.kaggle.com/c/bike-sharing-demand) page. There you will see the overall details about the competition including overview, data, code, discussion, leaderboard, and rules. You will primarily be focused on the data and ranking sections.
 
 ### Dependencies
@@ -35,9 +21,6 @@ MXNet 1.8
 Pandas >= 1.2.4
 AutoGluon 0.2.0 
 ```
-
-### Installation
-For this project, it is highly recommended to use Sagemaker Studio from the course provided AWS workspace. This will simplify much of the installation needed to get started.
 
 For local development, you will need to setup a jupyter lab instance.
 * Follow the [jupyter install](https://jupyter.org/install.html) link for best practices to install and start a jupyter lab instance.
