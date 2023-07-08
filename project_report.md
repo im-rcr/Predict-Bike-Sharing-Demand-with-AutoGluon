@@ -6,7 +6,7 @@
 Data contained negative values. I had trouble doing the project on my local environment so I decided to do everything in the SageMaker studio. and managed to improve my results and get a score of below 0.5 while in the beginning I got a score of more than 1.8
 
 ### What was the top ranked model that performed?
-TODO: Weighted_Ensemble_L3 model was my top ranked which I achieved by completing the third run with more features and tuning of hyperparameters.
+Weighted_Ensemble_L3 model was my top ranked which I achieved by completing the third run with more features and tuning of hyperparameters.
 
 ## Exploratory data analysis and feature creation
 ### What did the exploratory analysis find and how did you add additional features?
